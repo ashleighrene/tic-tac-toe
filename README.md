@@ -15,6 +15,7 @@ A browser-based Tic Tac Toe game coded in Javascript, HTML and CSS.
 - As a user, I want the game to account for ties and be able to play again.
 - As a user, I want to place my token so that I can interact with the game.
 - As a user, I want an opponent to play against (human opponent as player 2).
+- As a user, I want instructions on how to play.
 
 #### Bronze
 
@@ -31,3 +32,7 @@ A browser-based Tic Tac Toe game coded in Javascript, HTML and CSS.
 - As a user, I want to be able to pick a theme for my game's style so that the icons and board all match (underwater, western, holiday).
 - As a user, I want my game to have audio and sound effects when an action happens.
 - As a user, I want to have different board sizes for my game.
+
+### Wireframs
+
+![Tic tac toe wireframe for initial screen](Assets/tic-tac-toe-wireframe.jpg)
